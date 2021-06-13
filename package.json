@@ -1,0 +1,24 @@
+{
+  "name": "music-algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephtey/music-algo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephtey/music-algo/issues"
+  },
+  "homepage": "https://github.com/josephtey/music-algo#readme",
+  "dependencies": {
+    "mongoose": "^5.12.13"
+  }
+}
